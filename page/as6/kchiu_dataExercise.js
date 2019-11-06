@@ -20,6 +20,7 @@ function setup() {
   createCanvas(1200,600);
   noStroke();
   background(0);
+    noLoop();
 }
 
 function draw(){
