@@ -1,4 +1,12 @@
-//
+///////////////////////
+//CSMA 101           //
+//Into to Programming//
+//Fall 2019          //
+//Professor Theohar  //
+//Ka Kit Chiu        //
+//805-284-8116       //
+///////////////////////
+
 //switch execerise
 
 //variable for ball
