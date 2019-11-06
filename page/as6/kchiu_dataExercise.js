@@ -13,7 +13,7 @@
 var table;
 
 function preload() {
-table = loadTable("assets/flights.csv", "csv", "header");
+table = loadTable("data/flights.csv", "csv", "header");
 }
 
 function setup() {

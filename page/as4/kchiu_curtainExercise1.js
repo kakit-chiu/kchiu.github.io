@@ -21,9 +21,9 @@ var action;
 
 function preload() {
 
-    img1 = loadImage ("data/test4.jpg");
-    img2 = loadImage ("data/ivy.jpg");
-    img3 = loadImage ("data/test3.jpg");
+    img1 = loadImage ("image/test4.jpg");
+    img2 = loadImage ("image/ivy.jpg");
+    img3 = loadImage ("image/test3.jpg");
 }
 
 function setup() {
