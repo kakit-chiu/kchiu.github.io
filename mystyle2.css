@@ -134,9 +134,11 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 }
 
 /*fa-bar*/
+/*
 .fa-bars:before{content:"\f0c9"}
 .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .fa-caret-down:before{content:"\f0d7"}
+*/
 
 /*right*/
 left{float:left!important}.right{float:right!important}
