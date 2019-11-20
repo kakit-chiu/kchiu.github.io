@@ -142,3 +142,10 @@ button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[
 
 /*right*/
 left{float:left!important}.right{float:right!important}
+
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    color: firebrick;
+}
